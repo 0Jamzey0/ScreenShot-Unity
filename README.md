@@ -1,3 +1,3 @@
 # ScreenShot-Unity
 
-![Showcase](ScreenShot.png)
+![Showcase](Screenshot.png)
