@@ -7,6 +7,6 @@ This is a Simple C# script that allows you to take high Quality Screen Captures 
 * Change and modify the name of the Output Image and its format (Note : i dont recommend changing its format from PNG)
 * Capture a Shot during any time of PlayMode by pressing 'P' (Can be changed to any button via Code)
 
-#Below are just Simple Demos which are not included with the Script
+# Below are just Simple Demos which are not included with the Script
 ![Showcase](Screenshot.png)
 ![Showcase](Screenshot2.png)
